@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   # push:
   schedule:
-    - cron: '01 16 * * *'
+    - cron: '06 16 * * *'
 permissions:
   contents: read
 jobs:
